@@ -1,0 +1,48 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url("images/back.JPG");
+    background-repeat: no-repeat;
+    
+}
+
+.main{
+    width: 100%;
+    /* margin-right: 100px; */
+    text-align: center;
+    padding-top: 300px;
+    
+}
+img{
+    width: 100px;
+    
+}
+
+.flex
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    text-align: center;    
+}
+
+
+h1{
+    display: inline-block;
+    color: black;
+    padding-left: 50px;
+    padding-right: 30px;
+    font-size: 40px;    
+}
+
+h2{
+    color: royalblue;
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+#l
+{
+    width: 400px;
+}
